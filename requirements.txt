@@ -1,0 +1,11 @@
+# Papermill libs
+ansiwrap
+click
+pyyaml
+nbformat >= 5.1.2
+tqdm >= 4.32.2
+nbclient==0.5.13
+ipykernel==6.9.2
+requests
+entrypoints
+tenacity
